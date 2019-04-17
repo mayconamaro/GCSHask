@@ -6,4 +6,4 @@ Dado como entrada um arquivo de especificação de um grafo no formato DIMACS, t
 [![Hackage-Deps](https://img.shields.io/hackage-deps/v/mios.svg?label=mios)](http://hackage.haskell.org/package/mios)
 [![Hackage-Deps](https://img.shields.io/hackage-deps/v/bimap.svg?label=bimap)](http://hackage.haskell.org/package/bimap)
 
-### Feito com ♥ em Haskell
+### Feito com :heart: em Haskell
